@@ -80,6 +80,9 @@ PIPELINE_START_LEVEL;
     3. RawSeq to multihot
     4. Multihot to Dataset      (when you want to restore datasets)
 
+## Custom rebuilding
+
+Run package.ipynb
 
 ## Release History
 
