@@ -9,6 +9,16 @@ Generating datasets for time-series prediction tasks from the OMOP-CDM DB.
 
 ## Installation
 
+If no free-TDS, install it for pymssql:
+(Ubuntu/Debian):
+```sh
+sudo apt-get install freetds-dev
+```
+(Mac OS X with Homebrew):
+```sh
+brew install freetds
+```
+
 At /PATH/TO/THE/PACKAGE/FOLDER/:
 
 ```sh
