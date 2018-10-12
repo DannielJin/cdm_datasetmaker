@@ -1,5 +1,4 @@
 # cdm_datasetmaker
-Generating datasets for time-series prediction tasks from the OMOP-CDM DB.
 
 Generating datasets for time-series prediction tasks from the OMOP-CDM DB.
 1. Target cohort & comparator cohort
@@ -79,7 +78,9 @@ PIPELINE_START_LEVEL;
 
 ## Meta
 
-Sanghyung Jin, MS(1) – jsh90612@gmail.com
-Yourim Lee, BS(1) - urimeeee.e.gmail.com
-Rae Woong Park, MD, PhD(1)(2) - rwpark99@gmail.com
+Sanghyung Jin, MS(1) – jsh90612@gmail.com  
+Yourim Lee, BS(1) - urimeeee.e.gmail.com  
+Rae Woong Park, MD, PhD(1)(2) - rwpark99@gmail.com  
 
+(1) Dept. of Biomedical Informatics, Ajou University School of Medicine, Suwon, South Korea  
+(2) Dept. of Biomedical Sciences, Ajou University Graduate School of Medicine, Suwon, South Korea  
