@@ -30,7 +30,7 @@ pip3 uninstall ./dist/*.whl -y
 
 ## Usage example
 
-DB_connection.txt :
+DB_connection.txt in CONFIG FOLDER:
 ```
 SERVER_IP = SERVER_IP:PORT #127.0.0.1:1433
 USER = USERNAME #user
@@ -39,7 +39,7 @@ CDM_DB = CDM_DB_NAME ##DB where OMOP_CDM data stored
 RESULT_DB = RESULT_DB_NAME ##DB where you will store query_outputs
 ```
 
-DS_PARAMS.txt:
+DS_PARAMS.txt in CONFIG FOLDER:
 ```
 DB_CONN_FILENAME = DB_connection.txt
 TARGET_CODE = 316139  # target_concept_id(s) (e.g.) 111, 222, 333
