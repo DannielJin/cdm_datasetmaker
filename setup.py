@@ -9,7 +9,7 @@ setup(
     author_email     = 'jsh90612@gmail.com, urimeeee.e.gmail.com, rwpark99@gmail.com',
     url              = '',
     download_url     = '',
-    install_requires = ['numpy', 'pandas', 'sklearn', 'pymssql'],
+    install_requires = ['numpy', 'pandas', 'sklearn', 'pymssql', 'scipy'],
     packages         = find_packages(exclude=["test*"]),
     keywords         = ['medical', 'sequence', 'dataset','OMOP', 'CDM'],
     python_requires  = '>=3',
