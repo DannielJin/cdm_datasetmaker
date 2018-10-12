@@ -79,7 +79,7 @@ PIPELINE_START_LEVEL;
 ## Meta
 
 Sanghyung Jin, MS(1) – jsh90612@gmail.com  
-Yourim Lee, BS(1) - urimeeee.e.gmail.com  
+Yourim Lee, BS(1) - urimeeee.e@gmail.com  
 Rae Woong Park, MD, PhD(1)(2) - rwpark99@gmail.com  
 
 (1) Dept. of Biomedical Informatics, Ajou University School of Medicine, Suwon, South Korea  
