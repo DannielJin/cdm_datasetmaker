@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: cdm-datasetmaker-test
+Version: 1.0
+Summary: Create datasets from tables in OMOP_CDM DB 
+Home-page: UNKNOWN
+Author: Sanghyung Jin, Yourim Lee
+Author-email: jsh90612@gmail.com, urimeeee.e.gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: medical,sequence,OMOP,CDM
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3

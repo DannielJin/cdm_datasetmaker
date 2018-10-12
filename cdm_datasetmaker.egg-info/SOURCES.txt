@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+cdm_datasetmaker/__init__.py
+cdm_datasetmaker/cohort_tables.py
+cdm_datasetmaker/multihot2datasets.py
+cdm_datasetmaker/pipeline.py
+cdm_datasetmaker/rawseq2multihot.py
+cdm_datasetmaker/table2rawseq.py
+cdm_datasetmaker/utils.py
+cdm_datasetmaker.egg-info/PKG-INFO
+cdm_datasetmaker.egg-info/SOURCES.txt
+cdm_datasetmaker.egg-info/dependency_links.txt
+cdm_datasetmaker.egg-info/not-zip-safe
+cdm_datasetmaker.egg-info/requires.txt
+cdm_datasetmaker.egg-info/top_level.txt

@@ -9,6 +9,16 @@ Generating datasets for time-series prediction tasks from the OMOP-CDM DB.
 
 ## Installation
 
+If no free-TDS, install it for pymssql:
+(Ubuntu/Debian):
+```sh
+sudo apt-get install freetds-dev
+```
+(Mac OS X with Homebrew):
+```sh
+brew install freetds
+```
+
 At /PATH/TO/THE/PACKAGE/FOLDER/:
 
 ```sh
@@ -84,3 +94,4 @@ Rae Woong Park, MD, PhD(1)(2) - rwpark99@gmail.com
 
 (1) Dept. of Biomedical Informatics, Ajou University School of Medicine, Suwon, South Korea  
 (2) Dept. of Biomedical Sciences, Ajou University Graduate School of Medicine, Suwon, South Korea  
+
